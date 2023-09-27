@@ -1,0 +1,1 @@
+{"version":3,"file":"get-subscription-type.js","sourceRoot":"","sources":["../../../src/utils/get-subscription-type.ts"],"names":[],"mappings":";;;AAAA,kEAA6D;AAGhD,QAAA,mBAAmB,GAAG,CAAC,UAAmB,EAAE,EAAE;IACzD,OAAO,iCAAc,CAAC,UAAU,EAAE,uBAAuB,EAAE,YAAY,CAAC,CAAC;AAC3E,CAAC,CAAC"}

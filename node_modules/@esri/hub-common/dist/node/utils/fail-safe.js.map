@@ -1,0 +1,1 @@
+{"version":3,"file":"fail-safe.js","sourceRoot":"","sources":["../../../src/utils/fail-safe.ts"],"names":[],"mappings":";;;AAEA;;;;GAIG;AACH,SAAgB,QAAQ,CACtB,EAAoB,EACpB,cAAmB,EAAE;IAErB,OAAO,CAAC,GAAG,IAAS,EAAE,EAAE;QACtB,OAAO,EAAE,CAAC,GAAG,IAAI,CAAC,CAAC,KAAK,CAAC,CAAC,CAAM,EAAE,EAAE;YAClC,OAAO,WAAW,CAAC;QACrB,CAAC,CAAC,CAAC;IACL,CAAC,CAAC;AACJ,CAAC;AATD,4BASC"}

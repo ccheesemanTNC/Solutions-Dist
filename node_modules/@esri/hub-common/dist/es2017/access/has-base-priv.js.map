@@ -1,0 +1,1 @@
+{"version":3,"file":"has-base-priv.js","sourceRoot":"","sources":["../../../src/access/has-base-priv.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,QAAQ,EAAE,MAAM,UAAU,CAAC;AAEpC;;;;GAIG;AACH,MAAM,UAAU,WAAW,CAAC,IAAW;IACrC,MAAM,EAAE,UAAU,GAAG,EAAE,EAAE,GAAG,IAAI,CAAC;IACjC,OAAO,QAAQ,CAAC,UAAU,EAAE,wBAAwB,CAAC,CAAC;AACxD,CAAC"}

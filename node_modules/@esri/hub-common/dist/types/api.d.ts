@@ -1,0 +1,15 @@
+import { IRequestOptions } from "@esri/arcgis-rest-request";
+import { IPortal } from "@esri/arcgis-rest-portal";
+import { IHubRequestOptions } from "./types";
+/**
+ * ```js
+ * import { getHubApiUrl() } from "@esri/hub-common";
+ * //
+ * getHubApiUrl({ portal: "https://custom.maps.arcgis.com/sharing/rest" })
+ * >> "https://hub.arcgis.com"
+ * ```
+ * Retrieves the Hub API Url associated with a specific ArcGIS Online organization.
+ * @param urlOrObject a Portal URL, Portal API URL, request options object, or Portal self object
+ * @returns the associated Hub API Url as a string.
+ */
+export declare function getHubApiUrl(urlOrObject: IPortal | IHubRequestOptions | IRequestOptions | string): string;

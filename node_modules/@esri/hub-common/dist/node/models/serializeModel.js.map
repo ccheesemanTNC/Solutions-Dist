@@ -1,0 +1,1 @@
+{"version":3,"file":"serializeModel.js","sourceRoot":"","sources":["../../../src/models/serializeModel.ts"],"names":[],"mappings":";;;AACA,kCAAsC;AAMtC;;;;GAIG;AACH,SAAgB,cAAc,CAAC,KAAa;IAC1C,MAAM,UAAU,GAAG,kBAAW,CAAC,KAAK,CAAC,IAAI,CAAqB,CAAC;IAC/D,UAAU,CAAC,IAAI,GAAG,IAAI,CAAC,SAAS,CAAC,KAAK,CAAC,IAAI,CAAC,CAAC;IAC7C,OAAO,UAAU,CAAC;AACpB,CAAC;AAJD,wCAIC"}

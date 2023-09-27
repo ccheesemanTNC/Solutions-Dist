@@ -1,0 +1,1 @@
+{"version":3,"file":"get-with-default.js","sourceRoot":"","sources":["../../../src/objects/get-with-default.ts"],"names":[],"mappings":";;;AAAA,yCAAqC;AAErC;;;;;;GAMG;AACH,SAAgB,cAAc,CAC5B,GAA2B,EAC3B,IAAY,EACZ,GAAQ;IAER,MAAM,GAAG,GAAG,kBAAO,CAAC,GAAG,EAAE,IAAI,CAAC,CAAC;IAC/B,OAAO,GAAG,KAAK,SAAS,CAAC,CAAC,CAAC,GAAG,CAAC,CAAC,CAAC,GAAG,CAAC;AACvC,CAAC;AAPD,wCAOC"}
